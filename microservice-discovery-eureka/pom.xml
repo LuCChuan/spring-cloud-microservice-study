@@ -10,7 +10,7 @@
     <groupId>com.itmuch.cloud</groupId>
     <artifactId>spring-cloud-microservice-study</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <relativePath>spring-cloud-microservice-study/pom.xml</relativePath>
+    <relativePath></relativePath>
   </parent>
 
   <dependencies>
